@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-props-gh-pages/static/css/main.83a4726a.css",
+    "main.js": "/react-props-gh-pages/static/js/main.3f7ba188.js",
+    "index.html": "/react-props-gh-pages/index.html",
+    "main.83a4726a.css.map": "/react-props-gh-pages/static/css/main.83a4726a.css.map",
+    "main.3f7ba188.js.map": "/react-props-gh-pages/static/js/main.3f7ba188.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83a4726a.css",
+    "static/js/main.3f7ba188.js"
+  ]
+}
